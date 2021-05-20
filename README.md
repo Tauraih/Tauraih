@@ -9,11 +9,11 @@
      - Javascript
 
 #### Frameworks:
-        - Django
-        - Flask
-        - Codeigniter
-        - Gofiber
-        - Reactjs
+     - Django
+     - Flask
+     - Codeigniter
+     - Gofiber
+     - Reactjs
 
 <!--
 **Tauraih/Tauraih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
