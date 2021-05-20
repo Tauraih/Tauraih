@@ -2,6 +2,19 @@
 
 🌱 I am a lifelong learner who is constantly evolving as a Software developer.
 
+#### Languages:
+        - Python
+        - PHP
+        - Golang
+        - Javascript
+
+#### Frameworks:
+        - Django
+        - Flask
+        - Codeigniter
+        - Gofiber
+        - Reactjs
+
 <!--
 **Tauraih/Tauraih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
