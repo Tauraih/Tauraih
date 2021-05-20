@@ -3,10 +3,10 @@
 🌱 I am a lifelong learner who is constantly evolving as a Software developer.
 
 #### Languages:
-        - Python
-        - PHP
-        - Golang
-        - Javascript
+     - Python
+     - PHP
+     - Golang
+     - Javascript
 
 #### Frameworks:
         - Django
