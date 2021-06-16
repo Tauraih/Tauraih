@@ -7,6 +7,7 @@
      - PHP
      - Golang
      - Javascript
+     - Java
 
 #### Frameworks:
      - Django
