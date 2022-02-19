@@ -14,7 +14,8 @@
      - Codeigniter
      - Gofiber
      - Reactjs
-
+ 
+![Tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/tauraivm.png)
 <!--
 **Tauraih/Tauraih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
